@@ -2,25 +2,6 @@
 
 ## README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A very basic Rails API with full CRUD functionality for one model. Utilizes Postgresql as a database and deployed via Heroku. Built as part of a General Assembly bootcamp 1-day assignment.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Link to frontend React repository](https://github.com/samuel-casey/my-jams-rails-client)
